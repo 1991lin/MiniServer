@@ -1,0 +1,4 @@
+<Servlet>
+    <url>/login</url>
+    <servletClass>com.tech.servlet.LoginServlet</servletClass>
+</Servlet>
